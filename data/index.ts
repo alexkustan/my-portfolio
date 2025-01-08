@@ -72,65 +72,45 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/ai-startup-landing-page.png",
-    link: "https://github.com/adrianhajdin?tab=repositories",
+    title: "Fizzi - Ecommerce Landing Page",
+    des: " a dynamic e-commerce landing page featuring cutting-edge animations powered by GSAP.",
+    img: "/fizzi.png",
+    link: "https://fizzi.alexander-portfolio.me ",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/dark-saas-landing-page.png",
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    title: "Layers - Software as a Service.",
+    des: "Sleek landing page featuring modern GSAP animations, intuitive user flows, and a visually engaging design.",
+    img: "/layers.png",
+    link: "https://layers.alexander-portfolio.me ",
   },
-  {
-    id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/light-saas-landing-page.png",
-    link: "https://github.com/adrianhajdin/ai_saas_app",
-  },
-  // {
-  //   id: 4,
-  //   title: "Animated Apple Iphone 3D Website",
-  //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-  //   img: "/p4.svg",
-  //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-  //   link: "https://github.com/adrianhajdin/iphone",
-  // },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Alexander was an absolute pleasure. His ability to listen, adapt, and provide innovative solutions was truly impressive. From start to finish, he showed unmatched professionalism and a genuine passion for what he does. If you’re looking for someone to bring your vision to life, Alexander is your go-to expert.",
+    name: "Emma Carter",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Alex was transformative for our project. He didn’t just meet our expectations he redefined what we thought was possible. His creativity, technical skills, and commitment to excellence ensured a product we’re proud to showcase.",
+    name: "Liam Edwards",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Alexander is a rare combination of talent, reliability, and creativity. Throughout the process, he communicated clearly, delivered on time, and went above and beyond to ensure we were satisfied. His dedication to understanding our brand and elevating it was nothing short of extraordinary.",
+    name: "Sophia Bennett",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "The experience of collaborating with Alexander was nothing short of exceptional. His sharp insights, problem-solving skills, and ability to execute even the most complex ideas made him a crucial part of our team. Alexander’s work didn’t just meet our needs it exceeded them in every way.",
+    name: "Ethan Mitchell",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Alex was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Alex enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Alex is the ideal partner.",
     name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
   },
 ];
 
