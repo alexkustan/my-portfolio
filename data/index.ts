@@ -73,7 +73,7 @@ export const projects = [
   {
     id: 1,
     title: "Fizzi - Ecommerce Landing Page",
-    des: " a dynamic e-commerce landing page featuring cutting-edge animations powered by GSAP.",
+    des: "A dynamic e-commerce landing page featuring cutting-edge animations powered by GSAP.",
     img: "/fizzi.png",
     link: "https://fizzi.alexander-portfolio.me ",
   },
@@ -83,6 +83,34 @@ export const projects = [
     des: "Sleek landing page featuring modern GSAP animations, intuitive user flows, and a visually engaging design.",
     img: "/layers.png",
     link: "https://layers.alexander-portfolio.me ",
+  },
+  {
+    id: 3,
+    title: "Suburbia – Skate Brand Website",
+    des: "Immersive 3D web experience for a skate company, featuring interactive models and bold urban aesthetics to reflect the brand’s creative edge.",
+    img: "/suburbia.png",
+    link: "https://suburbia-eight.vercel.app",
+  },
+  {
+    id: 4,
+    title: "Agroton – Agricultural Solutions Platform",
+    des: "Clean and professional site for a Ukrainian agricultural firm, combining strong visual hierarchy, earthy tones, and informative layouts to showcase products and services.",
+    img: "/Agroton.png",
+    link: "https://agroton.vercel.app",
+  },
+  {
+    id: 5,
+    title: "NextPizza– Modern Pizza Ordering Experience",
+    des: "Fast and functional pizza store website with a Prisma-powered backend and seamless Stripe integration for smooth online ordering and secure payments.",
+    img: "/NextPizza.png",
+    link: "https://pizza-store-lime.vercel.app",
+  },
+  {
+    id: 6,
+    title: "Beleza – Women's Wellness Studio",
+    des: "Elegant and calming wellness site tailored for women, blending soft visuals, intuitive navigation, and a serene aesthetic to reflect the brand’s mission.",
+    img: "/Belleza.png",
+    link: "https://belleza.alexander-portfolio.me",
   },
 ];
 
